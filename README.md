@@ -1,2 +1,2 @@
 # curso-git
-Git slides powered by Sinaptica Labs
+Git slides powered by Sinaptica
