@@ -4,17 +4,17 @@
 * Que es git?
 * Que puedo hacer con git?
 * Como me ayuda git en mis proyectos?
-* Como me ayuda git en mi dia a dia?
+* Git para trabajo en equipo
 * Cuales son las ventajas de utilizar git?
 * Git y GitHub
 
-## Conociendo GitHub y la consola de UNIX
+## Conociendo GitHub y la consola 
 * Conociendo los PR
 * Conociendo los  Issues
 * Conociendo los Due Date
 * Invitando a mis amigos a un trabajo colaborativo
 * Conociendo la consola
-* Comandos basicos de la consola de UNIX
+* Comandos basicos de consola
 
 ## Instalacion de Git
 * Crear mi cuenta en GitHub
