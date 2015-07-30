@@ -2,6 +2,6 @@
 
 ####Instructores:
 * Piero Blunda
-* Maximiliano Cañelloas
+* Maximiliano Cañellas
 
 Slides by Sinaptica
