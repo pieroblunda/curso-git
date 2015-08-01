@@ -12,5 +12,6 @@
             "data-background": "#ff0000"
         }
     },
-    "markdown.md"
+    ["markdown.md",
+    "markdown-details.md"]
 ]
