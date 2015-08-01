@@ -2,7 +2,7 @@
   "generator-reveal": {
     "presentationTitle": "Curso Git",
     "packageVersion": "0.1.0",
-    "revealTheme": "sky",
+    "revealTheme": "white",
     "useSass": false,
     "deployToGithubPages": false
   }

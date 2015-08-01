@@ -1,9 +1,16 @@
 [
     "index.md",
     {
+        "filename": "sinaptica.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
         "filename": "curso-git.md",
         "attr": {
-            "data-background": "#FFFFFF"
+            "data-background": "#ff0000"
         }
-    }
+    },
+    "markdown.md"
 ]
