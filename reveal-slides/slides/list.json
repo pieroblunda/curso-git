@@ -12,6 +12,14 @@
             "data-background": "#ff0000"
         }
     },
-    ["markdown.md",
-    "markdown-details.md"]
+    [
+        "markdown.md",
+        "markdown-details.md"
+    ],
+    [
+        "introduccion.md",
+        "introduccion-1.md",
+        "introduccion-2.md",
+        "git-github.md"
+    ]
 ]
