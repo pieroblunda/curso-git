@@ -20,10 +20,24 @@
         "introduccion.md",
         "introduccion-1.md",
         "introduccion-2.md",
-        "git-ventajas.md",
+        "git-ventajas.md"
     ],
     [
-      "git-github.md",
-      "github-features.md"
+        "git-github.md",
+        "github-features.md",
+        "github-features.md"
+    ],
+    [
+        "github-installation.md",
+        "github-ui.html",
+        "github-configuration.md"
+    ],
+    [
+      "conceptos-0.md",
+      "conceptos-1.md",
+      "conceptos-2.md",
+      "conceptos-3.md",
+      "conceptos-4.md",
+      "conceptos-5.md"
     ]
 ]
