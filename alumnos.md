@@ -1,5 +1,5 @@
 | Nombre           |      e-mail      |  Nota |
 |:---------        |:--------------|------:|
-| [Piero Blunda](https://github.com/pieroblunda)     |  xxx@gmail.com |     ? |
-| Maximiliano Canelas         | yyy@gmail.com   |     ? |
-| Tito         | zzz@gmail.com |     ? |
+| [Piero Blunda](https://github.com/pieroblunda)     |  pb@sinaptica.io |     ? |
+| Maximiliano Canelas         | mc@sinaptica.io   |     ? |
+| Nestor Paez         | np@sinaptica.io |     ? |
