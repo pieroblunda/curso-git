@@ -1,8 +1,8 @@
-##  Ventajas de user Git
+##  Ventajas de usar Git
 
 * Sistema Distribuido
 * Alta Disponibilidad
-* Solo un directorio oculto .git por repositorio
-* Mejor utilización de disco, compresión y performance
+* Sólo un directorio oculto `.git` por repositorio
+* Mejor utilización de disco, compresión y rendimiento
 * Mejora la colaboración
-* Hace tu vida mas facil
+* Hace tu vida mas fácil

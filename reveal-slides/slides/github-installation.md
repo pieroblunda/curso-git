@@ -1,4 +1,4 @@
-##  Installation
+###  Instalación
 
 OSX
 ``` bash

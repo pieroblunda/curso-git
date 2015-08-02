@@ -27,6 +27,7 @@
         "github-features.md"
     ],
     [
+        "instalacion-0.md",
         "github-installation.md",
         "github-ui.html",
         "github-configuration.md"
@@ -37,7 +38,8 @@
         "conceptos-2.md",
         "conceptos-3.md",
         "conceptos-4.md",
-        "conceptos-5.md"
+        "conceptos-5.md",
+        "conceptos-6.md"
     ],
     [
         "comandos-0.md",
@@ -50,9 +52,10 @@
         "comandos-7.md"
     ],
     [
-      "git-avanzado.md",
-      "git-avanzado-1.md"
+        "git-avanzado.md",
+        "git-avanzado-1.md"
     ],
     "herramientas-avanzadas.md",
-    "aprender-git.md"
+    "aprender-git.md",
+    "comandos-8.md"
 ]

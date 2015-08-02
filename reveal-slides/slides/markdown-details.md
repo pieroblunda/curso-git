@@ -1,4 +1,4 @@
-##  Markdown Sintax
+###  Markdown Sintax
 
 ```
 Headings 
