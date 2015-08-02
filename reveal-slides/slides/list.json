@@ -1,9 +1,9 @@
 [
     "index.md",
     {
-        "filename": "sinaptica.md",
+        "filename": "sinaptica.html",
         "attr": {
-            "data-background": "https://sinaptica.io/img/misc/front2.jpg"
+            "data-background": "https://raw.githubusercontent.com/sinaptica/curso-git/pb/adding-slide/reveal-slides/resources/img/sinaptica.jpg"
         }
     },
     {
