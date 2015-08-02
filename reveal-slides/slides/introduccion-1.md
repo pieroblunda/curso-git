@@ -1,5 +1,10 @@
 #### Que es Git?
 
-Es un [sistema](https://es.wikipedia.org/wiki/Control_de_versiones) para la gestión de cambios que se realizan sobre algún producto. Una versión, es el estado en el que se encuentra el mismo en un momento dado de su desarrollo o modificación.
+<i class="fa fa-git fa-4x"></i>
+
+Es un software de [control de versiones](https://es.wikipedia.org/wiki/Control_de_versiones) diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.
 
 ![Alt image](versioning-witouth-git.jpg)
+
+
+[Git - Wikipedia](https://es.wikipedia.org/wiki/Git)

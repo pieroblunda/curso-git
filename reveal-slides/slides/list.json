@@ -20,6 +20,10 @@
         "introduccion.md",
         "introduccion-1.md",
         "introduccion-2.md",
-        "git-github.md"
+        "git-ventajas.md",
+    ],
+    [
+      "git-github.md",
+      "github-features.md"
     ]
 ]
