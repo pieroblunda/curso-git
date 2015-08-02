@@ -33,11 +33,21 @@
         "github-configuration.md"
     ],
     [
-      "conceptos-0.md",
-      "conceptos-1.md",
-      "conceptos-2.md",
-      "conceptos-3.md",
-      "conceptos-4.md",
-      "conceptos-5.md"
+        "conceptos-0.md",
+        "conceptos-1.md",
+        "conceptos-2.md",
+        "conceptos-3.md",
+        "conceptos-4.md",
+        "conceptos-5.md"
+    ],
+    [
+      "comandos-0.md",
+      "comandos-1.md",
+      "comandos-2.md",
+      "comandos-3.md",
+      "comandos-4.md",
+      "comandos-5.md",
+      "comandos-6.md",
+      "comandos-7.md"
     ]
 ]
