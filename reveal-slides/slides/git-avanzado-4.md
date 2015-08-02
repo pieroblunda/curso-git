@@ -1,3 +1,3 @@
-##  comandos avanzados en git
+##  git stash
 
 This is a new Markdown slide

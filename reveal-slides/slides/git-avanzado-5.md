@@ -1,3 +1,3 @@
-##  comandos avanzados en git
+###  git revert
 
 This is a new Markdown slide

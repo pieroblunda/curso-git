@@ -49,13 +49,20 @@
         "comandos-4.md",
         "comandos-5.md",
         "comandos-6.md",
-        "comandos-7.md"
+        "comandos-7.md",
+        "comandos-8.md",
+        "comandos-9.md"
     ],
     [
         "git-avanzado.md",
-        "git-avanzado-1.md"
+        "git-avanzado-1.md",
+        "git-avanzado-2.md",
+        "git-avanzado-3.md",
+        "git-avanzado-4.md",
+        "git-avanzado-5.md",
+        "git-avanzado-6.md",
+        "git-avanzado-7.md"
     ],
     "herramientas-avanzadas.md",
-    "aprender-git.md",
-    "comandos-8.md"
+    "aprender-git.md"
 ]

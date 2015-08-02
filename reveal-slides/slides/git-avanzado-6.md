@@ -1,3 +1,3 @@
-##  comandos avanzados en git
+##  git rebase
 
 This is a new Markdown slide
