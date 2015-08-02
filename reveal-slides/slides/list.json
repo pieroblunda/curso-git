@@ -39,7 +39,8 @@
         "conceptos-3.md",
         "conceptos-4.md",
         "conceptos-5.md",
-        "conceptos-6.md"
+        "conceptos-6.md",
+        "conceptos-7.md"
     ],
     [
         "comandos-0.md",
@@ -62,6 +63,14 @@
         "git-avanzado-5.md",
         "git-avanzado-6.md",
         "git-avanzado-7.md"
+    ],
+    [
+        "buenas-practicas-0.md",
+        "buenas-practicas-1.md",
+        "buenas-practicas-2.md",
+        "buenas-practicas-3.md",
+        "buenas-practicas-4.md",
+        "buenas-practicas-5.md"
     ],
     "herramientas-avanzadas.md",
     "aprender-git.md"
