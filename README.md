@@ -1,2 +1,7 @@
 # curso-git
-Git slides powered by Sinaptica Labs
+
+####Instructores:
+* Piero Blunda
+* Maximiliano Cañellas
+
+Slides by Sinaptica
