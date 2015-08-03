@@ -13,8 +13,10 @@
     },
     [
         "introduccion.md",
+        "sin-git.md",
         "introduccion-1.html",
         "introduccion-2.md",
+        "teamwork.md",
         "git-ventajas.md",
         "github-example.md"
     ],
@@ -73,6 +75,5 @@
         "buenas-practicas-5.md"
     ],
     "herramientas-avanzadas.md",
-    "aprender-git.md",
-    "sin-git.md"
-]
+    "aprender-git.md"
+    ]
