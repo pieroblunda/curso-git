@@ -12,19 +12,21 @@
         }
     },
     [
+        "introduccion.md",
+        "sin-git.md",
+        "introduccion-1.html",
+        "introduccion-2.md",
+        "teamwork.md",
+        "git-ventajas.md",
+        "github-example.md"
+    ],
+    [
         "markdown.md",
         "markdown-details.md"
     ],
     [
-        "introduccion.md",
-        "introduccion-1.html",
-        "introduccion-2.md",
-        "git-ventajas.md"
-    ],
-    [
         "git-github.md",
-        "github-features.md",
-        "github-example.md"
+        "github-features.md"
     ],
     [
         "instalacion-0.md",
@@ -74,4 +76,4 @@
     ],
     "herramientas-avanzadas.md",
     "aprender-git.md"
-]
+    ]
