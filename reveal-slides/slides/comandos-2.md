@@ -1,7 +1,8 @@
 ###  git commit
 
 ```bash
-git commit -a -m 'msg'
+git commit `<file>` -m 'Any message'
+git commit -am 'Any message'
 ```
 
-Commit all files changed since your last commit, except untracked files (ie. all files that are already listed in the index). Remove files in the index that have been removed from the workspace.
+Confirma los cambios realizados desde el último commit, exceptuando los archivos no trackeados. Actualiza el indice eliminando los punteros de archivos eliminados.

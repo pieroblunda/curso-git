@@ -4,4 +4,4 @@
 git clone <repo>
 ```
 
-Download the repository specified by repo and checkout HEAD of the master branch.
+Descarga el repositorio especificado en `<repo>` y se posiciona en la rama master.

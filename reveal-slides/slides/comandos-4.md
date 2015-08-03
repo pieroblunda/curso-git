@@ -2,6 +2,8 @@
 
 ```bash
 git branch
+git branch -a
+git branch -r
 ```
 
-List all existing branches. Option -r causes the remote-tracking branches to be listed, and option -a shows both.
+Lista todas las ramas locales existentes. La opcion -r lista las ramas remotas. La opcion -a lista todas (ambas).

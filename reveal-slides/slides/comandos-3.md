@@ -2,17 +2,17 @@
 
 
 ```bash
-git push remote branch
+git push <remote> <branch>
 ```
 
-Push new (or existing) branch to remote repository
+Empuja (envía) la rama al repositorio remoto.
 
 <br>
 
 ### git pull
 
 ```bash
-git pull <remote> <refspec>
+git pull <remote> <branch>
 ```
 
-Incorporates changes from a remote repository into the current branch. In its default mode, git pull is shorthand for git fetch followed by git merge FETCH_HEAD.
+Incorpora cambios desde el repositorio remoto a la rama actual. 
