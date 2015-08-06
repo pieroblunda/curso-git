@@ -58,6 +58,14 @@
         "comandos-9.md"
     ],
     [
+        "git-checkout-0.md",
+        "git-checkout-1.md",
+        "git-checkout-2.md",
+        "git-checkout-3.md",
+        "git-checkout-4.md",
+        "git-checkout-5.md"
+    ],
+    [
         "git-avanzado.md",
         "git-avanzado-1.md",
         "git-avanzado-2.md",
@@ -77,11 +85,5 @@
     ],
     "herramientas-avanzadas.md",
     "aprender-git.md",
-    "team.html",
-    "git-checkout-0.md",
-    "git-checkout-1.md",
-    "git-checkout-2.md",
-    "git-checkout-3.md",
-    "git-checkout-4.md",
-    "git-checkout-5.md"
+    "team.html"
 ]
