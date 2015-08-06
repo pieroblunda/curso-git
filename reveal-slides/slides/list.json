@@ -46,6 +46,7 @@
     ],
     [
         "comandos-0.md",
+        "comandos-0-bis.md",
         "comandos-1.md",
         "comandos-2.md",
         "comandos-3.md",
@@ -75,5 +76,12 @@
         "buenas-practicas-5.md"
     ],
     "herramientas-avanzadas.md",
-    "aprender-git.md"
-    ]
+    "aprender-git.md",
+    "team.html",
+    "git-checkout-0.md",
+    "git-checkout-1.md",
+    "git-checkout-2.md",
+    "git-checkout-3.md",
+    "git-checkout-4.md",
+    "git-checkout-5.md"
+]

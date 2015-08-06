@@ -1,3 +1,3 @@
-##  Buenas practicas
+##  Buenas prácticas
 
-This is a new Markdown slide
+> En teoría, la teoría es igual a la práctica, pero en la práctica, no.

@@ -1,3 +1,5 @@
 ##  conceptos báscos de Git
 
-Terminología habitual de un sistema de versionado.
+> «El buen código es su mejor documentación»
+>
+> -- <cite>Steve McConnell</cite>

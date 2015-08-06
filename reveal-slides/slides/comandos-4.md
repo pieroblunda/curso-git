@@ -1,9 +1,10 @@
 ###  git branch
 
 ```bash
-git branch
-git branch -a
-git branch -r
+git branch    # Lista las ramas locales
+git branch -r # Lista las ramas remotas
+git branch -a # Lista todas (ambas)
+git branch -D <my-branch> # Borra la rama <my-branch>
 ```
 
-Lista todas las ramas locales existentes. La opcion -r lista las ramas remotas. La opcion -a lista todas (ambas).
+Lista todas las ramas locales existentes.

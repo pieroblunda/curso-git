@@ -1,3 +1,5 @@
 ##  comandos avanzados en git
 
-This is a new Markdown slide
+> Todos somos ignorantes solo que ignoramos distintas cosas.
+>
+> -- <cite>Albert Einstein</cite>
