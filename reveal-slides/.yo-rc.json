@@ -4,6 +4,8 @@
     "packageVersion": "0.1.0",
     "revealTheme": "white",
     "useSass": false,
-    "deployToGithubPages": false
+    "deployToGithubPages": true,
+    "githubUsername": "sinaptica",
+    "githubRepository": "curso-git"
   }
 }

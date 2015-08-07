@@ -1,4 +1,4 @@
-# Generated on 2015-08-01 using generator-reveal 0.5.2
+# Generated on 2015-08-07 using generator-reveal 0.5.2
 module.exports = (grunt) ->
 
     grunt.initConfig
@@ -80,6 +80,18 @@ module.exports = (grunt) ->
                 }]
 
         
+        buildcontrol:
+
+            options:
+                dir: 'dist'
+                commit: true
+                push: true
+                message: 'Built from %sourceCommit% on branch %sourceBranch%'
+            pages:
+                options:
+                    remote: 'git@github.com:sinaptica/curso-git.git'
+                    branch: 'gh-pages'
+        
 
 
     # Load all grunt tasks.
@@ -121,6 +133,12 @@ module.exports = (grunt) ->
             'copy'
         ]
 
+    
+    grunt.registerTask 'deploy',
+        'Deploy to Github Pages', [
+            'dist'
+            'buildcontrol'
+        ]
     
 
     # Define default task.
