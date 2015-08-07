@@ -8,7 +8,7 @@ Conocer Git es fundamental para cualquier programador. Es escencial para su trab
 
 ### Profesores
 
-| ![Avatar MaxiDev_](https://pbs.twimg.com/profile_images/523520650200113152/SKsEcfpW.jpeg) | ![Avatar Piero Blunda](https://avatars0.githubusercontent.com/u/5834891?v=3&s=460) |
+| ![Avatar MaxiDev_](https://avatars2.githubusercontent.com/u/5783552?v=3&s=460) | ![Avatar Piero Blunda](https://avatars0.githubusercontent.com/u/5834891?v=3&s=460) |
 |:--:      |:--: |
 |[MaxiDev_](https://keybase.io/maxidev)|[Piero Blunda](https://pieroblunda.github.io/)|
 
