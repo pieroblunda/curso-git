@@ -6,5 +6,3 @@ dependencies:
     - npm install -g bower mocha expect.js superagent
   override:
     - npm install
-    - node ./bin/www:
-        background: true
