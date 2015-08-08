@@ -6,3 +6,6 @@ dependencies:
     - npm install -g bower mocha expect.js superagent
   override:
     - npm install
+test:
+  override:
+    - mocha
