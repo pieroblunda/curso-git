@@ -3,9 +3,11 @@ machine:
     version: 0.10.22
 dependencies:
   pre:
-    - npm install -g bower mocha expect.js superagent
+    - npm install -g bower mocha expect.js superagent generator-reveal
   override:
     - npm install
+  post:
+    - grunt serve
 test:
   override:
-    - mocha test
+    - mocha
