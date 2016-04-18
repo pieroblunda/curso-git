@@ -1,3 +1,3 @@
-##  slides-link
+##  Slides disponibles en
 
-This is a new Markdown slide
+[pieroblunda.github.io/curso-git](http://pieroblunda.github.io/curso-git/)
