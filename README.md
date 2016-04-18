@@ -8,9 +8,9 @@ Conocer Git es fundamental para cualquier programador. Es escencial para su trab
 
 ### Profesores
 
-| ![Avatar MaxiDev_](https://avatars2.githubusercontent.com/u/5783552?v=3&s=460) | ![Avatar Piero Blunda](https://avatars0.githubusercontent.com/u/5834891?v=3&s=460) |
-|:--:      |:--: |
-|[MaxiDev_](https://keybase.io/maxidev)|[Piero Blunda](https://pieroblunda.github.io/)|
+| ![Avatar Piero Blunda](https://avatars0.githubusercontent.com/u/5834891?v=3&s=460) |
+|:--: |
+|[Piero Blunda](https://pieroblunda.github.io/)|
 
 ### Perfil del alumno
 
@@ -19,8 +19,8 @@ Este curso está enfocado para programadores y alumnos de carreras afines al ár
 ### Detalles
 
 * Nivel: Inicial
-* Requerimientos previos: Ninguno
-* Duración: 20Hs distribuidos en 5 clases de 4Hs cada una.
+* Requisitos: Llevar PC para ejercicios practicos
+* Duración: 10Hs distribuidas en 4 clases de 2Hs 30min cada una.
 
 ### Programa del curso
 
@@ -32,7 +32,7 @@ Este curso está enfocado para programadores y alumnos de carreras afines al ár
 * Cuales son las ventajas de utilizar git?
 * Git y GitHub
 
-##### Conociendo GitHub y la consola 
+##### Conociendo GitHub y la consola
 * Conociendo los PR
 * Conociendo los  Issues
 * Conociendo los Due Date
@@ -53,7 +53,7 @@ Este curso está enfocado para programadores y alumnos de carreras afines al ár
 * Los comandos basicos de Git
 * Trabajando con Ramas y PR
 * Filosofia de trabajo con Git
-* Ejercicios practicos	
+* Ejercicios practicos
 * Resolucion de conflictos con Git
 * Otros comandos de Git
 
@@ -63,5 +63,3 @@ Este curso está enfocado para programadores y alumnos de carreras afines al ár
 * Más comandos de Git
 * Herramientas avanzadas
 * GitHub Page
-
-Slides by [Sinaptica](https://sinaptica.io/)

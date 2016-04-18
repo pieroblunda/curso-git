@@ -1,3 +1,3 @@
-##  twitter
+# #curso-git
 
-This is a new Markdown slide
+@pieroblunda

@@ -92,20 +92,28 @@
         "buenas-practicas-13.md",
         "buenas-practicas-14.md"
     ],
-    "herramientas-avanzadas.md",
-    "aprender-git.md",
-    "teacher.md",
-    {
-        "filename": "questions.md",
-        "attr": {
-            "data-background": "http://amorebeautifulquestion.com/wp-content/uploads/2014/03/MissionQuestion.001.png"
+    [
+        "whats-next.md",
+        "herramientas-avanzadas.md",
+        "aprender-git.md",
+        {
+            "filename": "questions.md",
+            "attr": {
+                "data-background": "http://amorebeautifulquestion.com/wp-content/uploads/2014/03/MissionQuestion.001.png"
+            }
         }
-    },
-    "cover.md",
-    {
-        "filename": "twitter.md",
-        "attr": {
-            "data-background": "http://marketing.dinamo.mx/wp-content/uploads/2015/08/twitter-logo-small-fade-1920.png"
+    ],
+    [
+        "about-me.md",
+        "slides-link.md",
+        "bibliography.md",
+        "teacher.md",
+        "curso-avanzado-de-git.md",
+        {
+            "filename": "twitter.md",
+            "attr": {
+                "data-background": "http://marketing.dinamo.mx/wp-content/uploads/2015/08/twitter-logo-small-fade-1920.png"
+            }
         }
-    }
+    ]
 ]
