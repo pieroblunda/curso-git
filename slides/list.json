@@ -127,5 +127,9 @@
         "tags-anotated.md",
         "tags-suggestion.md",
         "tags-reference.md"
+    ],
+    [
+      "introducing-gitbook.md",
+      "gitbook-editor.md"
     ]
 ]
