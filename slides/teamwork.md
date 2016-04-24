@@ -1,3 +1,3 @@
 ##  Trabajo en equipo con Git
 
-![team work](https://raw.githubusercontent.com/sinaptica/curso-git/pb/adding-slide/reveal-slides/resources/img/teamwork.png)
+![team work](https://raw.githubusercontent.com/pieroblunda/curso-git/master/resources/img/teamwork.png)
