@@ -31,7 +31,9 @@
         "instalacion-0.md",
         "github-installation.md",
         "github-ui.html",
-        "github-configuration.md"
+        "github-configuration.md",
+        "configuring.md",
+        "configuring-push-pull.md"
     ],
     [
         "conceptos-0.md",
