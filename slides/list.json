@@ -33,7 +33,9 @@
         "github-ui.html",
         "github-configuration.md",
         "configuring.md",
-        "configuring-push-pull.md"
+        "configuring-push-pull.md",
+        "prompt.md",
+        "prompt-installation.md"
     ],
     [
         "conceptos-0.md",
@@ -129,7 +131,7 @@
         "tags-reference.md"
     ],
     [
-      "introducing-gitbook.md",
-      "gitbook-editor.md"
+        "introducing-gitbook.md",
+        "gitbook-editor.md"
     ]
 ]
