@@ -1,0 +1,3 @@
+##  Entonces...
+
+Si tiene importancia saber quien y cuando se creo el tag, usar etiquetas anotadas. Si solamente se desea poner un nombre al commit, las etiquetas livianas seran suficiente.
