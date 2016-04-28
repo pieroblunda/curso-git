@@ -85,11 +85,11 @@
         "git-avanzado-8.md"
     ],
     [
-      "git-advanced-config.md",
-      "git-advanced-config-1.md",
-      "git-advanced-config-2.md",
-      "git-advanced-config-3.md",
-      "git-advanced-config-3-b.md"
+        "git-advanced-config.md",
+        "git-advanced-config-1.md",
+        "git-advanced-config-2.md",
+        "git-advanced-config-3.md",
+        "git-advanced-config-3-b.md"
     ],
     [
         "git-utils-0.md",
@@ -99,7 +99,8 @@
         "git-utils-4.md",
         "git-utils-4.md",
         "git-utils-5.md",
-        "git-utils-6.md"
+        "git-utils-6.md",
+        "git-utils-7.md"
     ],
     [
         "buenas-practicas-0.md",
