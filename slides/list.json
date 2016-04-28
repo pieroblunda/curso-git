@@ -67,7 +67,11 @@
         "git-checkout-2.md",
         "git-checkout-3.md",
         "git-checkout-4.md",
-        "git-checkout-5.md"
+        "git-checkout-5.md",
+        "git-merging-alert.md",
+        "git-conflict-0.md",
+        "git-conflict-1.md",
+        "git-conflict-2.md"
     ],
     [
         "git-avanzado.md",
