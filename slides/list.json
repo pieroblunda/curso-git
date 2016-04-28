@@ -30,8 +30,12 @@
     [
         "instalacion-0.md",
         "github-installation.md",
-        "github-ui.html",
-        "github-configuration.md"
+        "github-ui.md",
+        "github-configuration.md",
+        "configuring.md",
+        "configuring-push-pull.md",
+        "prompt.md",
+        "prompt-installation.md"
     ],
     [
         "conceptos-0.md",
@@ -115,5 +119,19 @@
                 "data-background": "http://marketing.dinamo.mx/wp-content/uploads/2015/08/twitter-logo-small-fade-1920.png"
             }
         }
+    ],
+    [
+        "tags.md",
+        "tags-list.md",
+        "tags-create.md",
+        "tags-push.md",
+        "tags-delete.md",
+        "tags-anotated.md",
+        "tags-suggestion.md",
+        "tags-reference.md"
+    ],
+    [
+        "introducing-gitbook.md",
+        "gitbook-editor.md"
     ]
 ]
