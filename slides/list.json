@@ -160,9 +160,12 @@
         "gitbook-editor.md"
     ],
     [
-      "situation-1-a.md",
-      "situation-0.md",
-      "situation-2.md",
-      "situation-3.md"
-    ]
+        "situation-0.md",
+        "situation-1-a.md",
+        "situation-2.md",
+        "situation-3.md",
+        "situation-4.md",
+        "situation-5.md"
+    ],
+    "faq-0.md"
 ]
