@@ -82,7 +82,8 @@
         "git-avanzado-5.md",
         "git-avanzado-6.md",
         "git-avanzado-7.md",
-        "git-avanzado-8.md"
+        "git-avanzado-8.md",
+        "git-avanzado-9.md"
     ],
     [
         "git-advanced-config.md",
@@ -117,7 +118,8 @@
         "buenas-practicas-11.md",
         "buenas-practicas-12.md",
         "buenas-practicas-13.md",
-        "buenas-practicas-14.md"
+        "buenas-practicas-14.md",
+        "buenas-practicas-15.md"
     ],
     [
         "whats-next.md",
@@ -156,5 +158,11 @@
     [
         "introducing-gitbook.md",
         "gitbook-editor.md"
+    ],
+    [
+      "situation-1-a.md",
+      "situation-0.md",
+      "situation-2.md",
+      "situation-3.md"
     ]
 ]
