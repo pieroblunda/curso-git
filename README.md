@@ -85,3 +85,4 @@ Este curso está enfocado para programadores y alumnos de carreras afines al ár
 * Automatizar el changelog
 * Configuracion avanzada de Git
 * Herramientas avanzadas en Git
+* Opciones avanzadas de GitHub (configurar PR y commit message)
