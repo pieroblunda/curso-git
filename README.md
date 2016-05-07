@@ -59,6 +59,8 @@ Este curso está enfocado para programadores y alumnos de carreras afines al ár
 * Buenas practicas
 * Introduccion a GitBook
 
+## Git avanzado
+
 ### Detalles
 
 * Nivel: Intermedio-avanzado
@@ -66,8 +68,6 @@ Este curso está enfocado para programadores y alumnos de carreras afines al ár
 * Duración: 5Hs distribuidas en 2 clases de 2Hs 30min cada una.
 
 ### Programa del curso
-
-##### Git avanzado
 
 **Git Avanzado: parte I**
 * Comandos avanzados de Git
