@@ -6,9 +6,9 @@ El curso tiene como objetivo provover el uso de la herramienta de versionado Git
 
 Conocer Git es fundamental para cualquier programador. Es escencial para su trabajo, desempeño y progreso.
 
-### Profesores
+### Profesor
 
-| ![Avatar Piero Blunda](https://avatars0.githubusercontent.com/u/5834891?v=3&s=460) |
+| ![Avatar Piero Blunda](https://avatars0.githubusercontent.com/u/5834891?v=3&s=230) |
 |:--: |
 |[Piero Blunda](https://pieroblunda.github.io/)|
 
@@ -24,42 +24,64 @@ Este curso está enfocado para programadores y alumnos de carreras afines al ár
 
 ### Programa del curso
 
-##### Introduccion a Git
+**Introduccion a Git**
 * Que es git?
 * Que puedo hacer con git?
 * Como me ayuda git en mis proyectos?
 * Git para trabajo en equipo
 * Cuales son las ventajas de utilizar git?
-* Git y GitHub
+* Introducción a Markdown
 
-##### Conociendo GitHub y la consola
-* Conociendo los PR
-* Conociendo los  Issues
-* Conociendo los Due Date
-* Invitando a mis amigos a un trabajo colaborativo
-* Conociendo la consola
-* Comandos basicos de consola
-
-##### Instalacion de Git
+**Conociendo GitHub**
+* Qué es GitHub?
+* Como puede usarse GitHub?
+* Diferencias entre Git y GitHub
+* Alternativas a GitHub
+* Por qué elegir GitHub?
 * Crear mi cuenta en GitHub
-* Instalacion en Linux
-* Instalacion en OSX
-* Configuracion: llaves publicas y privadas
-* Modelo de ramas comunmente aceptados
-* Concepto de "Branches" (ramas) y "Merges" (Unir)
-
-##### Empezando a trabajar con Git
-* Crando un repositorio Git
-* Los comandos basicos de Git
-* Trabajando con Ramas y PR
-* Filosofia de trabajo con Git
-* Ejercicios practicos
-* Resolucion de conflictos con Git
-* Otros comandos de Git
-
-##### Próximo paso con Git
-
-* Buenas prácticas
-* Más comandos de Git
-* Herramientas avanzadas
 * GitHub Page
+* Gist (de GitHub)
+
+**Instalación de Git**
+* Instalación en Linux, OSX y Windows
+* Configuracion: llaves publicas y privadas
+* Configuracion básica de Git
+
+**Primeros pasos en Git**
+* Filosofia de trabajo con Git
+* Crando un repositorio Git
+* Conociendo la consola
+* Glosario Git
+* Comandos basicos en Git
+* Comandos avanzados en Git
+* Ejercicios practicos
+* Colaborar en un repositorio como invitado
+* Buenas practicas
+* Introduccion a GitBook
+
+### Detalles
+
+* Nivel: Intermedio-avanzado
+* Requisitos: Llevar PC para ejercicios practicos
+* Duración: 5Hs distribuidas en 2 clases de 2Hs 30min cada una.
+
+### Programa del curso
+
+##### Git avanzado
+
+**Git Avanzado: parte I**
+* Comandos avanzados de Git
+* Resolucion de conflictos
+* Modelo de ramas comunmente aceptados
+* Buenas practicas
+* Colaborar en un repositorio de terceros
+* Más comandos de Git
+* Comandos utiles con Git
+
+**Git Avanzado: parte II**
+* Herramientas avanzadas
+* Re-escribir el History de Git
+* Etiquetar el codigo
+* Automatizar el changelog
+* Configuracion avanzada de Git
+* Herramientas avanzadas en Git
